@@ -1,0 +1,1 @@
+This is the first assignment for BCS Full Stack Bootcamp, in which an existing website is to be modified to comply with semantic HTML naming conventions for accessibility purposes without modifying the outcome of the original code.
